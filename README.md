@@ -1,4 +1,3 @@
-# AltmanCore-OS
 # 🧠 AltmanCore OS™
 
 > A Sovereign Operating System for the Future of AI × Humanity  
